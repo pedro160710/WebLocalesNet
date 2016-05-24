@@ -1,0 +1,20 @@
+p {
+	color: blue;
+	background-color:yellow;
+	font-size: 15px;
+}
+p#a{
+	color: blue;
+	background-color:white;
+	font-size: 15px;
+}
+p#b{
+	color: blue;
+	background-color:orange;
+	font-size: 15px;
+}
+p.nuevo{
+	color: blue;
+	background-color:green;
+	font-size: 15px;
+}
